@@ -22227,7 +22227,7 @@ cc_prebuilt_library_shared {
                 "libqcodec2_platform",
                 "libqcodec2_basecodec",
                 "qti.video.utils.videobufferlayout",
-                "android.hardware.graphics.common-V6-ndk",
+                "android.hardware.graphics.common-V7-ndk",
                 "libc++",
                 "libc",
                 "libm",
@@ -49724,7 +49724,7 @@ cc_prebuilt_binary {
             ],
             shared_libs: [
                 "libprotobuf-cpp-lite",
-                "android.hardware.graphics.common-V6-ndk",
+                "android.hardware.graphics.common-V7-ndk",
                 "android.hardware.graphics.allocator-V2-ndk",
                 "libutils",
                 "liblog",
